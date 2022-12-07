@@ -1,4 +1,4 @@
-# NN_banknote_detection
+# Neural Network for banknote detection
 The dataset contains some features extracted from the images of some banknotes and their classification. Data were extracted from images taken from genuine and forged banknote-like specimens. For digitization, an industrial camera usually used for print inspection was used. The final images have 400x400 pixels. Due to the object lens and to the distance from the investigated object, gray-scale pictures with a resolution of about 660 dpi were obtained. Wavelet Transform tool were used to extract features from the images. In particular:
 1. The first column contains the variance of Wavelet Transformed image.
 2. The second contains the skewness of Wavelet Transformed image.
